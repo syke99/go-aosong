@@ -25,7 +25,7 @@ import (
 	"encoding/binary"
 	"errors"
 
-	i2c "github.com/d2r2/go-i2c"
+	i2c "github.com/syke99/go-i2c"
 	"github.com/davecgh/go-spew/spew"
 )
 
